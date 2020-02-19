@@ -43,6 +43,10 @@ display: inline-block;
 .pictx{
 
 }
+a {
+    outline: none;
+    }
+    
 .iconsh img{
     height: 40px;
     width: 40px;
