@@ -59,10 +59,36 @@ color:black;
 font-family: 'Alegreya Sans', sans-serif;
 float: left;
 }
-.rhead{
-    float: right;
-    margin-right: 0px;
+/*page emoji*/
+.emojiphm{
+    min-width: 100%;
 }
+.rheade{
+    margin:0px;
+    float: left;
+}
+
+.pemoji{
+    margin: 40px;
+}
+
+.pemoji{
+    margin-top:0px;
+}
+.pemoji img:hover{
+    border-radius: 50%;
+    box-shadow: 0 0 5px 5px rgb(238, 197, 16);
+}
+.pemoji img{
+    height:100px;
+    width:100px;
+    
+}
+.pemoji:hover{
+    cursor: pointer;
+}
+
+/*emoji index*/
 .sett,.emoji{
     float: left;
     margin: 20px;
