@@ -89,6 +89,11 @@ float: left;
 }
 
 /*emoji index*/
+
+.rhead{
+    float: right;
+    margin-right: 0px;
+}
 .sett,.emoji{
     float: left;
     margin: 20px;
