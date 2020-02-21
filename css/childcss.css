@@ -28,6 +28,24 @@ user-select: none;
     overflow: hidden;
     
 }
+
+@media screen and (min-width:2200px){
+    .dashboard{
+        padding: 100px 300px;
+    }
+}
+
+@media screen and (min-width:4000px){
+    .dashboard{
+        padding: 100px 600px;
+    }
+}
+@media screen and (min-width:5000px){
+    .dashboard{
+        padding: 100px 1500px;
+    }
+}
+
 @media screen and (max-width:1500px){
     .dmain{
         min-width: 950px;
