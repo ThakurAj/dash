@@ -78,6 +78,10 @@ color:black;
 font-family: 'Alegreya Sans', sans-serif;
 float: left;
 }
+.animation-p-icons{
+    color:rgb(148, 153, 228);
+
+}
 /*page emoji*/
 .emojiphm{
     min-width: 100%;
@@ -97,6 +101,11 @@ float: left;
 .pemoji img:hover{
     border-radius: 50%;
     box-shadow: 0 0 5px 5px rgb(238, 197, 16);
+}
+
+.pemoji img:hover{
+    height:150px;
+    width: 150px;
 }
 .pemoji img{
     height:100px;
